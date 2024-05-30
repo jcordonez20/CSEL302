@@ -1,6 +1,8 @@
 CSEL-302 Repository
 
+
 Welcome to my CSEL-302 repository
+
 
 Contents
 
@@ -19,9 +21,13 @@ Contents
 2B_ORDOÑEZ_EXER7.ipynb
 
 Overview
+
 This is a page for my assignments.
 
+
 Contact Details
+
 Your Name - jolordonez20@gmail.com
+
 
 Project Link: https://github.com/jcordonez20/CSEL302
