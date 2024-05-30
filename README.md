@@ -27,7 +27,7 @@ This is a page for my assignments.
 
 Contact Details
 
-Your Name - jolordonez20@gmail.com
+My Email - jolordonez20@gmail.com
 
 
 Project Link: https://github.com/jcordonez20/CSEL302
