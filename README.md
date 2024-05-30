@@ -31,3 +31,5 @@ My Email - jolordonez20@gmail.com
 
 
 Project Link: https://github.com/jcordonez20/CSEL302
+
+GitHub Pages Link: https://jcordonez20.github.io/CSEL302
