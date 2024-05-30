@@ -20,6 +20,8 @@ Contents
 
 2B_ORDOÑEZ_EXER7.ipynb
 
+2B_ORDOÑEZ_MIDTERM.ipynb
+
 Overview
 
 This is a page for my assignments.
